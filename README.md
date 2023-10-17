@@ -21,20 +21,9 @@
 
  **代码不开源，后续会推出UOS等国产LINUX版本。** 
 
-![image](https://github.com/cxasm/mywrite/blob/main/png/101302.png)
-
-![image](https://github.com/cxasm/mywrite/blob/main/png/101302.png)
-
-![image](https://github.com/cxasm/mywrite/blob/mainpng/101503.png)
-
-![image](https://github.com/cxasm/mywrite/blob/mainpng/101502.png)
-
-![image](https://github.com/cxasm/mywrite/blob/mainpng/101501.png)
-
-![image](https://github.com/cxasm/mywrite/blob/main092501.png)
-
-![image](https://github.com/cxasm/mywrite/blob/mainpng/0925.png)
-
-![image](https://github.com/cxasm/mywrite/blob/mainpng/09051.png)
-
-![image](https://github.com/cxasm/mywrite/blob/mainpng/09052.png)
+![101503](https://github.com/cxasm/mywrite/assets/42246867/8b69cdcf-28a7-426b-b5b6-0d8cc8adc630)
+![101502](https://github.com/cxasm/mywrite/assets/42246867/7003e4d7-464d-41a6-a2d4-1e38d17ca8cd)
+![0925](https://github.com/cxasm/mywrite/assets/42246867/27c202de-7f77-4307-9c01-07652440442f)
+![101301](https://github.com/cxasm/mywrite/assets/42246867/70dc1893-c2dd-4f29-b664-311b66e7eafa)
+![101302](https://github.com/cxasm/mywrite/assets/42246867/cf7b2f2a-bbcf-4ecc-a26b-3b9b508f9ffc)
+![09051](https://github.com/cxasm/mywrite/assets/42246867/b669d8d2-5539-4611-897e-92a8f71bb68c)
