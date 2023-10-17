@@ -21,19 +21,20 @@
 
  **代码不开源，后续会推出UOS等国产LINUX版本。** 
 
+![image](https://github.com/cxasm/mywrite/blob/main/png/101302.png)
 
-![输入图片说明](png/101302.png)
+![image](https://github.com/cxasm/mywrite/blob/main/png/101302.png)
 
-![输入图片说明](png/101503.png)
+![image](https://github.com/cxasm/mywrite/blob/mainpng/101503.png)
 
-![输入图片说明](png/101502.png)
+![image](https://github.com/cxasm/mywrite/blob/mainpng/101502.png)
 
-![mao os效果图](png/101501.png)
+![image](https://github.com/cxasm/mywrite/blob/mainpng/101501.png)
 
-![输入图片说明](092501.png)
+![image](https://github.com/cxasm/mywrite/blob/main092501.png)
 
-![输入图片说明](png/0925.png)
+![image](https://github.com/cxasm/mywrite/blob/mainpng/0925.png)
 
-![输入图片说明](png/09051.png)
+![image](https://github.com/cxasm/mywrite/blob/mainpng/09051.png)
 
-![输入图片说明](png/09052.png)
+![image](https://github.com/cxasm/mywrite/blob/mainpng/09052.png)
